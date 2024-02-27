@@ -65,6 +65,6 @@ describe("Rover class", function() {
     expect(rover.position).toEqual(2100);
   });
 
-  // 7 tests here!
+
 
 });
